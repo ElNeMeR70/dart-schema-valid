@@ -1,0 +1,5 @@
+name: dart_schema_valid
+description: JSON Schema validator with $ref resolution
+version: 1.0.0
+environment:
+  sdk: '>=3.0.0 <4.0.0'
